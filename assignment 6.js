@@ -66,5 +66,5 @@ function computeDash(num){
 
 }
 
-let resulted = computeDash("025468") //If the number which is taling as a parameter is having a leading zero it should passed as string otherwise zero is being elinating.
+let resulted = computeDash("025468") //If the number which is taking as a parameter is having a leading zero it should passed as string otherwise zero is geting eliminating.
 console.log(resulted)
